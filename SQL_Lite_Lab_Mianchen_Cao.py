@@ -4,7 +4,7 @@
 # In[2]:
 
 
-#https://github.com/CMC0163/My-repo
+#https://github.com/CMC0163/My-repo/blob/main/SQL_Lite_Lab_Mianchen_Cao.py
 
 
 # In[ ]:
